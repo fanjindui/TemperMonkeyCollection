@@ -7,6 +7,7 @@
 // @match        */*
 // @grant        none
 // @require      https://cdn.staticfile.org/qrcodejs/1.0.0/qrcode.min.js
+// @updateURL    https://raw.githubusercontent.com/fanjindui/TemperMonkeyCollection/main/self/%E5%BD%93%E5%89%8D%E9%A1%B5%E7%BD%91%E5%9D%80%E8%BD%AC%E4%B8%BA%E4%BA%8C%E7%BB%B4%E7%A0%81.js
 // ==/UserScript==
 
 (function() {

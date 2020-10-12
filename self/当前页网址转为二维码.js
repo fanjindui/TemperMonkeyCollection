@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         当前页网址转为二维码
-// @namespace    https://github.com/fanjindui/TemperMonkeyCollection/tree/main/self
+// @namespace    fanfan
 // @version      0.1
 // @description  在页面右上角创建本页面url的浮动二维码
 // @author       fanfan

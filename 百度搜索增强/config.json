@@ -9,7 +9,7 @@
                     {"id":"ggImg5", "name":"谷歌镜像-5", "api":"http://map.cnmaps.cn/search?q="}
                    ],
           "social":[{"id":"zhihu", "name":"知乎", "api":"https://www.zhihu.com/search?type=content&q="},
-                    {"id":"weibo", "name":"微博", "api":""},
+                    {"id":"weibo", "name":"微博", "api":"https://s.weibo.com/weibo/"},
                     {"id":"douban", "name":"豆瓣", "api":"https://www.douban.com/search?q="}
                    ],
           "video":[{"id":"bili", "name":"Bilibili", "api":"https://search.bilibili.com/all?keyword="},

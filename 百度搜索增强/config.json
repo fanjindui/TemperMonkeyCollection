@@ -1,0 +1,27 @@
+{
+  "update":"20201015",
+  "data":{"search":[{"id":"bing", "name":"Bing", "api":"https://cn.bing.com/search?q="},
+                    {"id":"google", "name":"Google", "api":"https://www.google.com/search?&q"},
+                    {"id":"ggImg1", "name":"谷歌镜像-1", "api":"https://g.zeit.fun/search?q="},
+                    {"id":"ggImg2", "name":"谷歌镜像-2", "api":"https://g.jnkip.cn/search?q="},
+                    {"id":"ggImg3", "name":"谷歌镜像-3", "api":"https://soo.panda321.com/search?q="},
+                    {"id":"ggImg4", "name":"谷歌镜像-4", "api":"https://gl.ry4.me/search?q="},
+                    {"id":"ggImg5", "name":"谷歌镜像-5", "api":"http://map.cnmaps.cn/search?q="}
+                   ],
+          "social":[{"id":"zhihu", "name":"知乎", "api":"https://www.zhihu.com/search?type=content&q="},
+                    {"id":"weibo", "name":"微博", "api":""},
+                    {"id":"douban", "name":"豆瓣", "api":"https://www.douban.com/search?q="}
+                   ],
+          "video":[{"id":"bili", "name":"Bilibili", "api":"https://search.bilibili.com/all?keyword="},
+                   {"id":"txvideo", "name":"腾讯视频", "api":"https://v.qq.com/x/search/?q="},
+                   {"id":"iqiyi", "name":"爱奇艺", "api":"https://so.iqiyi.com/so/q_"},
+                   {"id":"youku", "name":"优酷", "api":"https://so.youku.com/search_video/q_"}
+                  ],
+          "scholar":[{"id":"cnki", "name":"中国知网", "api":"https://kns8.cnki.net/kns/defaultresult/index?kw="},
+                     {"id":"ggScholar", "name":"谷歌学术", "api":""},
+                     {"id":"ggSImg1", "name":"学术镜像-1", "api":"https://scholar.lanfanshu.cn/scholar?q="},
+                     {"id":"ggSImg2", "name":"学术镜像-2", "api":"https://sc.panda321.com/scholar?q="},
+                     {"id":"qichacha", "name":"企查查", "api":"https://www.qcc.com/search?key="}
+                    ]
+          }
+}
